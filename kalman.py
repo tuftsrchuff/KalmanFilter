@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation, PillowWriter
 
+# Specify envs here
 
 #Animation to plot incrementally for each time step
 def animate(i):
