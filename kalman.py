@@ -1,4 +1,5 @@
 #Specifying imports
+print("Loading imports")
 print("Starting filter program...")
 import numpy as np
 import matplotlib.pyplot as plt
